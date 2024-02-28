@@ -39,6 +39,12 @@ Berikut kode pemrograman yang ditambahkan
 ![Screenshot](assets-report/02.png)
 
 ## **Jawaban Soal 2**
+![Screenshot](assets-report/03.png)
+Ada perubahan. Pada saat praktikum pertama, contoh gambar yang harus ditampilkan pada website localhost ada 3 gambar yang saling bersebelahan yang dimana pada akhirnya saya memilih untuk melakukan implementasi contoh kode pemrograman dari praktikum ke-2 ke praktikum ke-1 seperti ini:
+
+![Screenshot](assets-report/04.png)
+
+Namun, dipraktikum ke-2 ini membuat komponen baru bernama _"gallery"_ dengan format tsx dan mengisi file tersebut dengan kode pemrograman seperti dicontoh. Ternyata saat komponen tersebut diimpor pada file _"page.tsx"_ terjadi perubahan seperti gambar diatas, yang awalnya 3 gambar menjadi 4 gambar.
 
 ## **Jawaban Soal 3**
 
