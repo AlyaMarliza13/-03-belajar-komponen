@@ -62,6 +62,18 @@ Hasil Kode setelah diperbaiki:
 
 ## **Jawaban Soal 4**
 
+Sebelum diperbaiki:
+
+![Screenshot](assets-report/05.png)
+
+Sesudah diperbaiki:
+
+![Screenshot](assets-report/06.png)
+
+Hasil dari perbaikan:
+
+![Screenshot](assets-report/07.png)
+
 ## **Jawaban Soal 5**
 
 ## **Jawaban Soal 6**
