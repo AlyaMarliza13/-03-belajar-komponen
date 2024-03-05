@@ -48,6 +48,18 @@ Namun, dipraktikum ke-2 ini membuat komponen baru bernama _"gallery"_ dengan for
 
 ## **Jawaban Soal 3**
 
+Kode saat sebelum diperbaiki:
+
+![Screenshot](assets-report/08.png)
+
+Kode setelah diperbaiki:
+
+![Screenshot](assets-report/09.png)
+
+Hasil Kode setelah diperbaiki:
+
+![Screenshot](assets-report/10.png)
+
 ## **Jawaban Soal 4**
 
 ## **Jawaban Soal 5**
