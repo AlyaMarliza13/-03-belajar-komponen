@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Bio from "../components/profile";
+import Bio from "../components/bio";
 import Profile from "../components/profile";
 import { Gallery } from "@/components/gallery";
 import TodoList from "@/components/todolist";
@@ -19,3 +19,5 @@ export default function Home() {
        </>
       );
     }
+
+    

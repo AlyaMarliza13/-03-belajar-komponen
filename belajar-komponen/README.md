@@ -76,6 +76,14 @@ Hasil dari perbaikan:
 
 ## **Jawaban Soal 5**
 
+Ya, terdapat perbedaan antara hasil dari Nomor 4 dengan Nomor 5
+
+Kode Pemrograman:
+![Screenshot](assets-report/11.png)
+
+Hasil:
+![Screenshot](assets-report/12.png)
+
 ## **Jawaban Soal 6**
 
 ## **Jawaban Soal 7**
