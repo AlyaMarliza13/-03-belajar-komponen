@@ -86,6 +86,16 @@ Hasil:
 
 ## **Jawaban Soal 6**
 
+Kode Pemrograman setelah diperbaiki:
+
+![Screenshot](assets-report/13.png)
+
+Hasil jika nilai imageSize dirubah menjadi "b":
+
+![Screenshot](assets-report/14.png)
+
+Ukuran gambar terlihat agak besar daripada sebelumnya.
+
 ## **Jawaban Soal 7**
 
 ## **Jawaban Soal 8**
