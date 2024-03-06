@@ -104,5 +104,8 @@ Hasil kode pemrograman:
 
 ## **Jawaban Soal 8**
 
+Hasil kode pemrograman:
+
+![Screenshot](assets-report/16.png)
 
 ## **Jawaban Soal 9**
