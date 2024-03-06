@@ -98,6 +98,11 @@ Ukuran gambar terlihat agak besar daripada sebelumnya.
 
 ## **Jawaban Soal 7**
 
+Hasil kode pemrograman:
+
+![Screenshot](assets-report/15.png)
+
 ## **Jawaban Soal 8**
+
 
 ## **Jawaban Soal 9**
