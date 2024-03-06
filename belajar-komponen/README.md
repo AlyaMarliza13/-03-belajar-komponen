@@ -109,3 +109,11 @@ Hasil kode pemrograman:
 ![Screenshot](assets-report/16.png)
 
 ## **Jawaban Soal 9**
+
+Kode Pemrograman setelah diperbaiki:
+
+![Screenshot](assets-report/17.png)
+
+Hasil kode pemrograman:
+
+![Screenshot](assets-report/18.png)
